@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ZPPBaseFloating_Example' do
+  pod 'ZPPBaseFloating', :path => '../'
+
+  target 'ZPPBaseFloating_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

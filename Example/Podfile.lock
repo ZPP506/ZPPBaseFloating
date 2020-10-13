@@ -1,0 +1,16 @@
+PODS:
+  - ZPPBaseFloating (0.1.0)
+
+DEPENDENCIES:
+  - ZPPBaseFloating (from `../`)
+
+EXTERNAL SOURCES:
+  ZPPBaseFloating:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZPPBaseFloating: 2cd1640f1007575aa8095bca93136e8e2fa1296d
+
+PODFILE CHECKSUM: d447503b7439e64a162af9a4ce3ce32ac9f854dd
+
+COCOAPODS: 1.10.0.beta.2

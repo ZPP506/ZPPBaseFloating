@@ -1,0 +1,6 @@
+framework module ZPPBaseFloating {
+  umbrella header "ZPPBaseFloating-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "ZPPBaseFloating",
+  "version": "0.1.0",
+  "summary": "A short description of ZPPBaseFloating.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ZPP506/ZPPBaseFloating",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ZPP506": "zhangpengpeng@yungengxin.com"
+  },
+  "source": {
+    "git": "https://github.com/ZPP506/ZPPBaseFloating.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZPPBaseFloating/Classes/**/*"
+}
