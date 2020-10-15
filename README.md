@@ -1,9 +1,6 @@
 # ZPPBaseFloating
 
-[![CI Status](https://img.shields.io/travis/ZPP506/ZPPBaseFloating.svg?style=flat)](https://travis-ci.org/ZPP506/ZPPBaseFloating)
-[![Version](https://img.shields.io/cocoapods/v/ZPPBaseFloating.svg?style=flat)](https://cocoapods.org/pods/ZPPBaseFloating)
-[![License](https://img.shields.io/cocoapods/l/ZPPBaseFloating.svg?style=flat)](https://cocoapods.org/pods/ZPPBaseFloating)
-[![Platform](https://img.shields.io/cocoapods/p/ZPPBaseFloating.svg?style=flat)](https://cocoapods.org/pods/ZPPBaseFloating)
+![normal video (1).gif](https://upload-images.jianshu.io/upload_images/11285123-cb3c5f8b076068f7.gif?imageMogr2/auto-orient/strip)
 
 ## Example
 
