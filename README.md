@@ -1,6 +1,6 @@
 # ZPPBaseFloating
 
-![normal video (1).gif](https://upload-images.jianshu.io/upload_images/11285123-cb3c5f8b076068f7.gif?imageMogr2/auto-orient/strip)
+![https://upload-images.jianshu.io/upload_images/11285123-cb3c5f8b076068f7.gif?imageMogr2/auto-orient/strip](https://upload-images.jianshu.io/upload_images/11285123-cb3c5f8b076068f7.gif?imageMogr2/auto-orient/strip)
 
 ## Example
 
