@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ZPPBaseFloating'
-  s.version          = '0.1.3'
+  s.version          = '1.0.3'
   s.summary          = 'ZPPBaseFloating'
 
 # This description is used to generate tags and improve search results.
