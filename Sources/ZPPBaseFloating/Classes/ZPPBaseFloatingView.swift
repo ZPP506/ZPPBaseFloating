@@ -6,7 +6,7 @@
 //  Copyright © 2020 admin. All rights reserved.
 //
 
-import Foundation
+import UIKit
 
 public struct ZPPFloatingConfig {
     public static var defulter: ZPPFloatingConfig {
